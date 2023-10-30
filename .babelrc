@@ -1,0 +1,6 @@
+{
+  "presets": [
+    "@babel/preset-env", // backward compatibility
+    "@babel/preset-react" // transpile react code to JS code
+  ]
+}
